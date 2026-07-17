@@ -6,6 +6,21 @@
 
 ---
 
+## Prerequisites · Python Foundations
+*Completed via Kaggle Python course (all 7 lessons — Tutorial + Exercise)*
+
+| Status | Lesson | Topic | Source |
+|--------|--------|-------|--------|
+| ✅ | 1 | Hello, Python — syntax, variables, numbers | Kaggle |
+| ✅ | 2 | Functions and Getting Help — `def`, default args, docstrings | Kaggle |
+| ✅ | 3 | Booleans and Conditionals — `if`/`elif`/`else`, operators | Kaggle |
+| ✅ | 4 | Lists — indexing, slicing, mutating, list methods | Kaggle |
+| ✅ | 5 | Loops and List Comprehensions — `for`, `while`, `range()` | Kaggle |
+| ✅ | 6 | Strings and Dictionaries — string methods, f-strings, dicts | Kaggle |
+| ✅ | 7 | Working with External Libraries — imports, operator overloading | Kaggle |
+
+---
+
 ## Week 1–2 · Data Foundations
 
 | Status | Day | Task | Sub-step | Commit |
